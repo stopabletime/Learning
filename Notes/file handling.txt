@@ -1,0 +1,3 @@
+Syntax for fputc();
+int fputc(int c,FILE*fp);
+The function fputc() writes the character value of the argument c to the output stream referenced by fp.
